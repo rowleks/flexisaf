@@ -122,6 +122,10 @@ div.search-res {
     padding: .5rem;
 }
 
+.search-res span {
+    color: rgba(0,0,0,.5);
+}
+
 .search-res div:hover {
     background-color: rgba(3, 244, 104, 0.3);
     cursor: pointer;
